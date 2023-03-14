@@ -36,3 +36,5 @@ This repo is used for recording the experience of getting over leetcode
 - 周日玩太high了，但其实也刷题了[二叉树的所有路径](2023-03-12)
 ---
 
+- 周一做了[全排列II](2023-01-03)
+- 周二做了[组合总和 II](2023-03-14)
