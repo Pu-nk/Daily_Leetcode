@@ -43,4 +43,4 @@ This repo is used for recording the experience of getting over leetcode
 - 周五学习了动态规划的`状态`与`选择`，[打家劫舍](2023-03-17)
 ---
 - 摆烂结束！从一道简单的动态规划开始  [等差数列划分](2023-03-20)
-- 
+- 最小路径和，利用动态规划找最优子结构 [最小路径和](2023-03-21)
